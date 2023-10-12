@@ -1,0 +1,269 @@
+@media screen and (max-width : 1050px)
+{
+    .main
+    {
+        width: 100%;
+
+    }
+    .header
+    {
+        width: 100%;
+        
+    }
+
+    .header-body .left-body
+    {
+        margin-top: 0;
+        width: 80%;
+    }
+
+    .header-body .left-body h2
+    {
+    font-size: 25px;
+    margin-left:0
+    }
+    .header-body .left-body  h1
+    {
+        font-size: 2em;
+        margin-left: 0;
+        margin-top: 25px;
+    }
+    .header-body .left-body  p
+    {
+        margin-top: 40px;
+        margin-left: 0;
+        font-size: 1rem;
+    }
+    .left-body .buttons .btn2  , .buttons .btn3
+    {
+        margin-left: 0;
+        width: 60%;
+    }
+    .right-body
+    {
+        margin-left: 40%;
+        flex-wrap: wrap;
+    }
+    .first-btn 
+    {
+        margin-bottom: 2px;
+        background-color: rgba(165, 42, 42, 0.63);
+    }
+
+    .first-btn , .second-btn , .third-btn , .fourth-btn
+    {
+        margin-left: 3%;
+        margin-top: 10px;
+    }
+
+    .body .body-left
+    {
+    height: auto;
+    width: 100%;
+    margin-top: 50px;
+    }  
+    .body .body-left h3
+    {
+        font-size: 2rem;
+
+    }
+    .body .body-left p
+    {
+        width: 80%;
+    }
+
+    .body .body-right
+    {
+        margin-left: 0;
+        margin: 0 auto;
+    }
+    .body .body-right .card-top .card1 , .card-top .card2
+    {
+        width: 80%;
+    }
+
+    .slide3
+    {
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+        
+    }
+    .slide3-top
+    {
+        width: 100%;
+    }
+    .slide3-body .cards
+    {
+        height: auto;
+        width: 100%;
+       
+    }
+   .slide3-body .box
+    {
+        height: auto;
+        margin-top: 1%;
+        
+    }  
+    .slide3-body .btn5 a
+    {
+       margin-left: 0;
+
+    } 
+
+    .slide4
+    {
+        width: 100%;
+        height: auto;
+    }
+    .slide4 .div1 img
+    {
+        width: 100%;
+        border-radius: 5px;
+        margin-left: 0;
+    } 
+    .slide4 .div2 img
+    {
+        width: 100%;
+        border-radius: 0%;
+        margin-left: 0;
+    }
+    .slide4 .div3 h3
+    {
+        text-align: center;
+        margin-top: 2%;
+        font-weight: bold;
+    }
+    
+    .slide4 .div3 h1
+    {
+    text-align: center;
+    font-size: 1.5em;
+    }
+    .slide4 .div3 .content3 
+    {
+     margin: auto;
+     margin-top: 5%;
+    }
+    .main-container
+    {
+        width: 100%;
+        flex-direction: column;
+        margin-top: auto;
+        height: auto;
+        z-index: 0;
+    }
+    .main-container .image-container
+    {
+        width: 80%;
+        height:auto;
+        border-radius: 10px;
+        z-index: 0;
+        margin-left: 0;
+        margin: 0 auto;
+    } 
+    .main-container .image-container img
+    {
+    
+        border-top: 5px solid black;
+        border-left: 5px solid black;
+        margin-top: 2em;
+        width: 100%;
+    }
+    
+    .main-container .content-container .sub-con1 h1
+    {
+        width: 100%;
+        text-align: center;
+        margin-top: 2em;
+        margin-bottom: 3rem;
+        font-size: 2em;
+        margin-left: 0;
+    }
+ 
+    .main-container .content-container .sub-con2
+    {
+        background-color: white;
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+        box-shadow: none;
+        border-radius: 70px;
+        padding: 2rem;
+        text-align: center;
+    }
+    .main-container .content-container .sub-con2 h2 , .sub-con2 p
+    {
+        margin-left:0;
+        text-align: center;
+        margin-bottom: 40px;
+        margin-top: 1rem;
+        letter-spacing: 2px;
+        word-spacing: 1px;
+    }
+    .circles
+    {
+        margin-left: 40%;
+    }
+    .slide5
+    {
+        width: 100%;
+        padding: auto;
+    }
+    .footer .footer-start
+    {
+        padding: 10px 10px;
+        flex-direction: column;
+        align-items: space-evenly;
+        margin-top: 2%;
+    }
+    .footer-start-1
+    {
+        width: 10%;
+        margin: auto;
+    }
+
+    .footer-start-2 h1
+    {
+        font-size: 1rem;
+        margin-top: 2%;
+    }
+    .footer .footer-start .footer-start-3 input
+    {
+        padding: 15px 60px;
+        margin-top: 2%;
+        margin-bottom: 3%;
+    }
+    .footer .footer-start .footer-start-2 , .footer-start-3 ,.footer-start-4
+    {
+       text-align: center;
+    }
+    .footer .footer-mid
+    {
+        text-align: center;
+        
+    }
+    .footer-mid-1{
+        width: 100%;
+        margin-bottom: 3%;
+    }
+    .footer-end
+    {
+        display: flex;
+       justify-content:space-between;
+    }
+
+
+    
+
+
+
+
+
+
+
+   
+ 
+
+
+}
